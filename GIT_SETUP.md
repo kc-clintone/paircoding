@@ -53,4 +53,4 @@ git clone https://github.com/owner/repo.git
 
 ---
 
-You are now ready to use Git!
+You are now ready to use Git, happy coding!
