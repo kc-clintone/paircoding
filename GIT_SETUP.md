@@ -54,3 +54,7 @@ git clone https://github.com/owner/repo.git
 ---
 
 You are now ready to use Git, happy coding!
+
+
+# Creating and solving chaos part 2 
+If you're seeing this, chaos has already been solved.
