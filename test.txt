@@ -1,1 +1,3 @@
 Learning merge conflicts. 
+
+Learning new things can be a headache sometimes.
